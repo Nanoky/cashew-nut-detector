@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'cashew'
+}
+
+item {
+    id: 2
+    name: 'date'
+}
+
+item {
+    id: 3
+    name: 'fig'
+}
+
+item {
+    id: 4
+    name: 'hazelnut'
+}
